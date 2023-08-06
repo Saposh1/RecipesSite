@@ -1,6 +1,6 @@
 # Recipe website 
 
-the project simulates a situation where we are full-stack developers who receive a requirements characterization document - PRD and are required to produce a recipe website
+As part of Web Development Inviroment course, I created A recipes website. The project simulates a situation in which we are full-stack developers who receive a requirements characterization document - PRD and are required to produce a recipe website.
 
 
 
