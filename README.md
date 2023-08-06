@@ -1,1 +1,8 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11318937&assignment_repo_type=AssignmentRepo)
+# Recipe website 
+
+the project simulates a situation where we are full-stack developers who receive a requirements characterization document - PRD and are required to produce a recipe website
+
+
+
+https://github.com/Saposh1/RecipesSite/assets/103626425/0674f002-6627-4a20-b18b-62e254df3f91
+
